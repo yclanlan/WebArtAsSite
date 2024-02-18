@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <style >
+
+            body {
+            background-color: rgb(44, 26, 109);
+            }
+
+            #press-button {
+              
+                margin: 0;
+                position: absolute;
+                top: 10%;
+                left: 10%;
+                transform: translate(-50%, -50%);
+                color: azure;
+                padding: 5rem;
+
+                animation-name:moving;
+                animation-duration: 4s;
+                animation-play-state: paused; 
+                animation-fill-mode: forwards;
+
+            }
+
+
+            #press-button:hover{
+                animation-play-state: running; 
+            }
+
+            @keyframes moving {
+                0%   {left: 90%;}
+                25%  {left: 10%; top:50%}
+                50%  {left: 70%; top:70%}
+                100% {left: 50%;}
+            }
+
+
+        </style>
+
+    </head>
+
+    <body>
+
+        <div id="press-button">
+            <br><br><br><br><br>
+            Let's get back!!
+        </div>
+
+        <a href="./index.html">
+        <img id="press-button" src="./cat_kp_lm.gif">
+        </a>
+
+
+
+    </body>
+
+</html>
