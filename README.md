@@ -30,16 +30,24 @@ https://u.cargo.site/account/domains/
 ![螢幕錄影 2024-02-19 下午1 28 59](https://github.com/yclanlan/WebArtAsSite/assets/97862198/2aa35be5-a561-41da-abe4-8441f42e7eef)
 
 
-### 5. First Column: type 'theSubDomainNameYouWant.yourDomainName.com.' 
+### 5. First Column: type 'the SubDomain Name You Want.your DomainName.com.' 
 
-#### For example: bread.yichunlan.com
+#### For example: 
+bread.yichunlan.com
+something.yichunlan.com
+mygithubbutwanttohoseon.yichunlan.com
+
+...remember change the domain name to yours!
 
 <!-- (remember the last '.', cargo will change the link directly to "github" when you chick "save") -->
 
 <hr/>
 
-### 6. Second Column: 'yourGithubUserName.github.io'
-#####For example: yclanlan.github.io
+### 6. Second Column: 'your Github UserName .github.io'
+#####For example: 
+yclanlan.github.io
+userlanlan.github.io
+justtypeyourusername.github.io
 
 <!-- (remember the last '.' again") -->
 
