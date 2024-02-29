@@ -13,32 +13,32 @@ Click to check the document by github</a> -->
 
 ## Let's start from setting subdomain in CARGO
 
-#### 1. GO this link to find your DNS first!
+### 1. GO this link to find your DNS first!
 
 https://u.cargo.site/account/domains/
 
 (on the top left corner, click into your account!)
 
 
-#### 2. Go the "Edit DNS" 
+### 2. Go the "Edit DNS" 
 
 <img width="785" alt="截圖 2024-02-19 下午1 17 45" src="https://github.com/yclanlan/WebArtAsSite/assets/97862198/906927f4-2aee-4db3-b1b4-f43ef4c6688c">
 
-#### 3. click 'Add record' 
-#### 4. change type to 'CNAME'
+### 3. click 'Add record' 
+### 4. change type to 'CNAME'
 
 ![螢幕錄影 2024-02-19 下午1 28 59](https://github.com/yclanlan/WebArtAsSite/assets/97862198/2aa35be5-a561-41da-abe4-8441f42e7eef)
 
 
-#### 5. First Column: type 'theSubDomainNameYouWant.yourDomainName.com.' 
+### 5. First Column: type 'theSubDomainNameYouWant.yourDomainName.com.' 
 
-##### For example: bread.yichunlan.com
+#### For example: bread.yichunlan.com
 
 <!-- (remember the last '.', cargo will change the link directly to "github" when you chick "save") -->
 
 <hr/>
 
-#### 6. Second Column: 'yourGithubUserName.github.io'
+### 6. Second Column: 'yourGithubUserName.github.io'
 #####For example: yclanlan.github.io
 
 <!-- (remember the last '.' again") -->
@@ -63,7 +63,7 @@ then go to the 'pages' tab to select the root you want to publish! After these t
 
 
 
-#### 8.Wait!! It will take a while, so be patient!!
+### 8.Wait!! It will take a while, so be patient!!
 
 I waited about half hour to make it happen!
 
