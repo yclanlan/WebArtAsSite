@@ -14,10 +14,9 @@ Click to check the document by github</a> -->
 ## Let's start from setting subdomain in CARGO
 
 #### 1. GO this link to find your DNS first!
-https://u.cargo.site/account/domains/
 
-(on the top left corner, click on your account!)
-<img width="1157" alt="截圖 2024-02-29 上午9 54 14" src="https://github.com/yclanlan/WebArtAsSite/assets/97862198/7bb52ac3-c2f8-4414-99dc-c6584be2727c">
+https://u.cargo.site/account/domains/
+(on the top left corner, click into your account!)
 
 
 #### 2. Go the "Edit DNS" 
