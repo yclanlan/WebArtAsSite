@@ -32,22 +32,22 @@ https://u.cargo.site/account/domains/
 
 ### 5. First Column: type 'the SubDomain Name You Want.your DomainName.com.' 
 
-#### For example: 
-bread.yichunlan.com
-something.yichunlan.com
-mygithubbutwanttohoseon.yichunlan.com
-
-...remember change the domain name to yours!
+#### For example: <br>
+bread.yichunlan.com<br>
+something.yichunlan.com<br>
+mygithubbutwanttohoseon.yichunlan.com<br>
+<br>
+...remember change the domain name to yours!<br>
 
 <!-- (remember the last '.', cargo will change the link directly to "github" when you chick "save") -->
 
 <hr/>
 
 ### 6. Second Column: 'your Github UserName .github.io'
-#####For example: 
-yclanlan.github.io
-userlanlan.github.io
-justtypeyourusername.github.io
+#####For example: <br>
+yclanlan.github.io<br>
+userlanlan.github.io<br>
+justtypeyourusername.github.io<br>
 
 <!-- (remember the last '.' again") -->
 
