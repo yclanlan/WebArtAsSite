@@ -11,8 +11,6 @@
 Click to check the document by github</a> -->
 
 
-<hr>
-
 ## Let's start from setting subdomain in CARGO
 
 #### 1. GO this link to find your DNS first!
