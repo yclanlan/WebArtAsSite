@@ -49,7 +49,7 @@ mygithubbutwanttohoseon.yichunlan.com<br>
 #####For example: <br>
 yclanlan.github.io<br>
 userlanlan.github.io<br>
-justtypeyourusername.github.io<br>
+justtyputyourusername.github.io<br>
 
 <!-- (remember the last '.' again") -->
 
