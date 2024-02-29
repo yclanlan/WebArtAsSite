@@ -6,10 +6,7 @@
 ##### Github Documentation of how to host if you want to check
 
 
-<a href="https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#dns-records-for-your-custom-domain">
-
-Click to check the document 
-</a>
+<a href="https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#dns-records-for-your-custom-domain">Click to check the document </a>
 
 <hr>
 
