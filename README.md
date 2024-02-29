@@ -3,7 +3,7 @@
 <hr>
 
 
-### Github Documentation of how to host
+<!-- ### Github Documentation of how to host -->
 
 
 <!-- <a href="https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#dns-records-for-your-custom-domain">
