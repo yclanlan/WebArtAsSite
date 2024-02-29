@@ -34,7 +34,7 @@ https://u.cargo.site/account/domains/
 
 ##### For example: bread.yichunlan.com.
 
-(remember the last '.', cargo will change the link directly to "github" when you chick "save")
+<!-- (remember the last '.', cargo will change the link directly to "github" when you chick "save") -->
 
 <hr/>
 
