@@ -6,9 +6,9 @@
 ### Github Documentation of how to host
 
 
-<a href="https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#dns-records-for-your-custom-domain">
+<!-- <a href="https://docs.github.com/en/pages/configuring-a-custom-domain-for-your-github-pages-site/managing-a-custom-domain-for-your-github-pages-site#dns-records-for-your-custom-domain">
 <img width="796" alt="截圖 2024-02-19 下午1 12 52" src="https://github.com/yclanlan/WebArtAsSite/assets/97862198/ec17cce0-3c98-4e27-8028-afcbe96d0077">
-Click to check the document by github</a>
+Click to check the document by github</a> -->
 
 
 <hr>

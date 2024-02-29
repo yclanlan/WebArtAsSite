@@ -1,0 +1,52 @@
+<html>
+    <head>
+
+        <script language="JavaScript" type="text/javascript">
+            function changesize(){ 
+            window.resizeTo(800,400); 
+            } 
+            window.onload=changesize; 
+            window.onresize=changesize;
+        </script>
+
+        <style>
+            body{
+                width:100%;
+                display: flex;
+            }
+
+            #direction{
+
+                position:fixed;
+                color:white ;
+                font-size: 3rem;;
+                top:50%;
+                left:30%;
+                opacity: 40%;
+                animation: animatedDirection .5s linear infinite;
+
+            }
+
+            @keyframes animatedDirection {
+            0% {
+                left:28%
+            }
+            50% {
+                left:33%
+            }
+            100% {
+                left:28%
+            }
+        }
+        </style>
+
+    </head>
+    <body>
+
+        <img src="./lanyangoutside.jpg">
+        <img src="./lanyang1.jpg">
+        <img src="./lanyang2.jpg">
+        <div id="direction"> scroll >> </div>
+
+    </body>
+</html>
