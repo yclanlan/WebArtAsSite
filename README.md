@@ -32,7 +32,7 @@ https://u.cargo.site/account/domains/
 
 #### 5. First Column: type 'theSubDomainNameYouWant.yourDomainName.com.' 
 
-##### For example: bread.yichunlan.com.
+##### For example: bread.yichunlan.com
 
 <!-- (remember the last '.', cargo will change the link directly to "github" when you chick "save") -->
 
@@ -41,7 +41,7 @@ https://u.cargo.site/account/domains/
 #### 6. Second Column: 'yourGithubUserName.github.io'
 #####For example: yclanlan.github.io
 
-(remember the last '.' again")
+<!-- (remember the last '.' again") -->
 
 <hr/>
 
