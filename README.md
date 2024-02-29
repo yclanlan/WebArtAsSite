@@ -16,6 +16,7 @@ Click to check the document by github</a> -->
 #### 1. GO this link to find your DNS first!
 
 https://u.cargo.site/account/domains/
+
 (on the top left corner, click into your account!)
 
 
