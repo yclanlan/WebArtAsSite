@@ -1,3 +1,5 @@
+<div class="test" markdown="1">
+
 # How to host github page in cargo subdomain!
 
 <hr>
@@ -79,4 +81,4 @@ I waited about half hour to make it happen!
 
 
 
-
+</div>
