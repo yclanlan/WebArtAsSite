@@ -1,60 +1,227 @@
 <!DOCTYPE html>
+
 <head>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <style>
-        #cloud{
-
-            position: fixed; 
-            width: 98vw; 
-            height: 50vh;
-            top: 3vh; 
-            right: 1vw; 
-            z-index: -1; 
-                        
-        }
-
         @media screen and (max-width:600px) {
             body {
                 background-image: linear-gradient(rgb(112, 80, 255), rgb(136, 255, 0));
                 background-repeat: no-repeat;
-                height:100vh;
+                height: 100vh;
             }
 
-            #walking-Bird{
-                width: 30vw;
-                position:absolute;
-                bottom: 10%;
+            #walking-Bird {
+                display: block;
+                width: 130vw;
+                position: absolute;
+                bottom: -10%;
             }
 
-            #rolling-Bird{
+            #rolling-Bird {
+                display: block;
                 width: 30vw;
             }
+
+            #flower {
+                display: block;
+                position: absolute;
+                top: 0%;
+                height: 100vh;
+            }
+
+            #sun {
+                display: none;
+                
+            }
+
+            #fish{
+                display: none;
+
+            }
+            #sea{
+                display: none;
+            }
+            #forest{
+                position: absolute;
+                top:0;
+                left:0;
+                mix-blend-mode: lighten;
+                z-index: -100;
+            width: 100vw;
+            height:100vh;
+        }
+
+        #cat{
+            display: none;
+        }
+
         }
 
         @media screen and (max-width:900px) and (min-width: 600px) {
             body {
                 background-image: linear-gradient(red, yellow);
                 background-repeat: no-repeat;
-                height:100vh;
+                height: 200vh;
             }
 
-            #walking-Bird{
+            #walking-Bird {
                 width: 30vw;
-                position:absolute;
+                position: absolute;
                 bottom: 10%;
-                left:10px;
+                left: 10px;
             }
 
-            #rolling-Bird{
-                width: 30vw;
+            #rolling-Bird {
+                width: 200vw;
+                position: absolute;
+                top:30%;
+                left:20%;
             }
+
+            #sun {
+                display: block;
+                position: absolute;
+                top: 20%;
+                left: 20%;
+                width: 60vw;
+            }
+
+            #sea{
+                display: none;
+            }
+
+            #fish{
+                display: none;
+            }
+
+            #flower{
+                display: none;
+            }
+
+            #forest{
+            display: none;
+            }
+
+            #cat{
+            display: none;
+        }
 
         }
 
         @media screen and (max-width:1200px) and (min-width: 900px) {
             body {
                 background-image: linear-gradient(rgb(127, 255, 193), rgb(17, 0, 255));
+                height:200vh;
+                margin: 0;
+                padding: 0;
             }
+
+            #fish {
+                display: block;
+                position: absolute;
+                width: 100%;
+                top:0%;
+            }
+
+            #sea {
+                position: absolute;
+                top: 0%;
+                width: 100vw;
+                height: 100vh;
+                mix-blend-mode: soft-light;
+                display: block;
+            }
+
+            #walking-Bird {
+                display: none;
+            }
+
+            #sun{
+                display: none;
+            }
+            #rolling-Bird{
+                display: none;
+            }
+            #flying-Bird{
+                display: none;
+            }
+            #forest{
+            display: none;
+        }
+
+        #cat{
+            mix-blend-mode: multiply;
+            position: absolute;
+            width:100%;
+            top:33vh;
+            left:0;
+        }
+
+
+
+        }
+
+
+        @media screen and (min-width: 1200px) {
+
+
+        #flying-Bird {
+        display: none;
+
+        }
+
+        #rolling-Bird {
+        display: none;
+        }
+
+        #walking-Bird {
+        display: none;
+        }
+
+        #sun {
+        display: none;
+        }
+
+        #fish {
+        display: none;
+        }
+
+        #flower {
+        display: none;
+        }
+
+        #sea {
+        display: none;
+        }
+        #forest{
+            display: none;
+        }
+        #cat{
+            display: none;
+        }
+        }
+
+ 
+
+        #cloud {
+
+        position: fixed;
+        width: 98vw;
+        height: 50vh;
+        top: 3vh;
+        right: 1vw;
+        z-index: -1;
+
+        }
+
+        #intro{
+            position: absolute;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            bottom:5%;
+            width:100%;
+            margin:auto;
         }
 
 
@@ -66,9 +233,19 @@
 
     <img id="cloud" src="3F3I.gif">
     <img id="flying-Bird" src="UDG7.gif">
-
+    <img id="sun" src="52O8.gif">
     <img id="rolling-Bird" src="4QYc.gif">
     <img id="walking-Bird" src="XOsX.gif">
+    <img id="fish" src="Tn7v.gif">
+    <img id="flower" src="33Hn.gif">
+    <img id="forest" src="54O2.gif">
+    <img id="cat" src="ZiFz.gif">
+    <img id="sea" src="OzE.gif">
+
+    <p id="intro">
+       resize the window!
+    </p>
+
 
 
 </body>
